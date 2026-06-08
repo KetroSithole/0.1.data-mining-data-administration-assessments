@@ -2,6 +2,13 @@
 
 This repository contains my answers for all 3 project questions.
 
+## Module Information
+
+- Module Code: ITDAA4-12
+- Assessment Naming Format: Module Code - Assessment Type - Campus Name - Student Number
+- Required Technologies: Python Programming and PostgreSQL
+- Campus Name: Online Campus
+
 ## Setup and Run
 
 ### 1. Install Python dependencies
