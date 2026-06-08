@@ -1,0 +1,18 @@
+# Python virtual environments
+venv/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Large local datasets (keep local, do not track in git)
+question-1/dataset/articles.csv
+question-2/project-dataset/articles.csv
+question-2/project-dataset/asteroid data and description/asteroid.csv
