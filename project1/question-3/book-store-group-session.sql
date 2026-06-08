@@ -2,9 +2,6 @@
 -- 3.1 Create database
 CREATE DATABASE book_store;
 
--- Connect to the database before running the rest of the script.
--- In psql: \c book_store
-
 -- 3.2 Create Orders table and insert sample data
 CREATE TABLE orders (
     order_id INT PRIMARY KEY,
