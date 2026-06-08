@@ -1,4 +1,6 @@
 
+DROP DATABASE IF EXISTS book_store;
+
 -- 3.1 Create database
 CREATE DATABASE book_store;
 
