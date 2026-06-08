@@ -3,6 +3,8 @@ DROP DATABASE IF EXISTS book_store;
 
 -- 3.1 Create database
 CREATE DATABASE book_store;
+-- Select the new database for all following table and query operations
+USE book_store;
 
 -- 3.2 Create Orders table and insert sample data
 CREATE TABLE orders (
